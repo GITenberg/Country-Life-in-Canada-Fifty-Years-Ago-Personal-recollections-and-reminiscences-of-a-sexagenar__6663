@@ -1,0 +1,25 @@
+_repo: Country-Life-in-Canada-Fifty-Years-Ago-Personal-recollections-and-reminiscences-of-a-sexagenar__6663
+creator:
+  author:
+    agent_name: Haight, Canniff
+    birthdate: 1825
+    deathdate: 1901
+    gutenberg_agent_id: '2138'
+    url: http://www.gutenberg.org/2009/agents/2138
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ontario -- Social life and customs'
+- !lcsh 'Frontier and pioneer life -- Ontario'
+- !lcc 'F1001'
+title: "Country Life in Canada Fifty Years Ago\r\nPersonal recollections and reminiscences\
+  \ of a sexagenarian"
+url: http://www.gutenberg.org/ebooks/6663
